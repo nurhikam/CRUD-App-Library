@@ -1,14 +1,14 @@
-# CRUD-App-Library
+# CRUD-App-Project
 
 ## Data Anggota Tim
 1. Nurhikam
 2. Mizanulkhair
 3. Fauzan 
 
-## Library Book's App
+# Library Book's App
 
 ## Problem yang akan diselesaikan
-di perpustakaan nasional di daerah Jakarta. Anda diminta untuk membuat 
+Di sebuah perpustakaan nasional di daerah Jakarta, setiap harinya memiliki banyak pengunjung. Perputakaan tersebut memiliki banyak buku dan terkadang hal itu membuat para pengunjung kesulitan untuk mengetahui apakah buku yang sedang dicari tersedia di perpustakaan tersebut.  
 
 ## Solusi yang dibuat
 Untuk menyelesaikan problem tersebut, maka dibuatlah sebuah aplikasi pencarian buku yang dapat digunakan oleh pelanggan di perpustakaan tersebut.
@@ -20,7 +20,9 @@ Selain itu, pelanggan perpustakaan juga dapat memberikan review (dalam range bin
 
 ## Panduan menggunakan aplikasi
 
+
 ## Demo atau screenshot aplikasi yang dibuat
+
 
 ## Referensi/Acknowledgement
 
