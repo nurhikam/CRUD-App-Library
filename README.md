@@ -25,22 +25,26 @@ setelah kita menemukan buku yang dicari, nantinya akan tersedia juga sebuah kolo
 
 ## Demo atau screenshot aplikasi yang dibuat
 ### Menu utama aplikasi
-![image](https://user-images.githubusercontent.com/92198564/173189726-8bab2718-d0ab-4f85-8d1a-6b2ca5b74368.png)
+![image](https://user-images.githubusercontent.com/92198564/173195347-1a86eede-47d6-4e26-876e-15a0eff45deb.png)
 ### Mencari Buku berdasarkan ISBN
-![image](https://user-images.githubusercontent.com/92198564/173189778-809169cd-1a9b-494b-9578-65f03ed0aeab.png)
+![image](https://user-images.githubusercontent.com/92198564/173195332-8fa32756-aaa9-422f-bd2a-375e18fdc6a9.png)
 ### Mencari Buku berdasarkan Judul Buku
-![image](https://user-images.githubusercontent.com/92198564/173189839-3f8c2036-4c2b-4210-b03b-8ca327d2197f.png)
+![image](https://user-images.githubusercontent.com/92198564/173195365-369adf83-2060-4335-855b-5c7c50b14cf8.png)
 ### Mencari Buku berdasarkan Nama Penulis
-![image](https://user-images.githubusercontent.com/92198564/173189897-c341fc57-fb3f-40d5-acb5-92076d67d358.png)
+![image](https://user-images.githubusercontent.com/92198564/173195383-03a23e5c-5d87-4f3b-9ab7-fba530a24cfe.png)
 ### Mencari Buku berdasarkan Tahun Terbit
-![image](https://user-images.githubusercontent.com/92198564/173189941-fcb20a97-acde-4fae-bf0d-f775909b99b2.png)
+![image](https://user-images.githubusercontent.com/92198564/173195416-0ed4790d-823a-40ad-867b-b8e4e8e49e46.png)
 ### Ketika Buku yang dicari tidak tersedia
-![image](https://user-images.githubusercontent.com/92198564/173189987-ea54af82-125e-4e39-8c21-251c1bf8f946.png)
+![image](https://user-images.githubusercontent.com/92198564/173195441-ef889e7c-3f4a-4df3-ba0a-0cb9b2a64556.png)
 ### Memilih Buku yang untuk diberikan Rating (Klik 2x pada Buku)
-![image](https://user-images.githubusercontent.com/92198564/173190096-7a506e5b-55e3-42d6-80e3-cfb693c745cd.png)
+![image](https://user-images.githubusercontent.com/92198564/173195479-240618ff-f2ac-4c22-b2b1-65324b52c169.png)
+### Ketika akan memberi rating pada buku
+![image](https://user-images.githubusercontent.com/92198564/173195499-6cfdacac-f2cc-4e7a-8157-228aa3c8f0d4.png)
+### Clear All (Membersihkan semua input dan output) 
+![image](https://user-images.githubusercontent.com/92198564/173195649-cbaeb154-8a51-4122-b5d8-8ab48a686758.png)
 
 
 ## Referensi/Acknowledgement
 https://react.rocks/tag/CRUD
 https://www.kaggle.com/datasets/dylanjcastillo/7k-books-with-metadata
-
+https://realpython.com/python-gui-tkinter/
