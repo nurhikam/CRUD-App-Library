@@ -46,5 +46,9 @@ setelah kita menemukan buku yang dicari, nantinya akan tersedia juga sebuah kolo
 
 ## Referensi/Acknowledgement
 https://react.rocks/tag/CRUD
+
 https://www.kaggle.com/datasets/dylanjcastillo/7k-books-with-metadata
+
 https://realpython.com/python-gui-tkinter/
+
+https://www.datacamp.com/tutorial/gui-tkinter-python
