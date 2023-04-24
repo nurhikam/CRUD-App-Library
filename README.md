@@ -1,10 +1,5 @@
 # CRUD-App-Project
 
-## Data Anggota Tim
-1. Nurhikam
-2. Mizanulkhair
-3. Fauzan 
-
 # Library Book's App
 
 ## Problem yang akan diselesaikan
